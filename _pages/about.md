@@ -17,12 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Computer Science PhD Candidate** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and previously by [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Reserach** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment & retrieval and conditional & controllable image generation using diffusion models. Previously, I worked as a Reserach Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** from the **Indian Institute of Technology, Roorkee**. 
+I am a **Machine Learning Scientist** at **Reddit** where I work on pushing ads conversion models to the state-of-the-art. Previously, I was a **Research Scientist** at **Meta** where I worked on bootstrapping generative models for business AI agents and on optimizing ad relevance ranking. I completed my **Computer Science PhD** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and previously by [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Research** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment & retrieval and conditional & controllable image generation using diffusion models. Earlier, I worked as a Research Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** in Mechanical Engineering from the **Indian Institute of Technology, Roorkee**. 
 
-My research areas include (1) vision-language alignment and representation learning, (2) conditional and controllable image and text generation, (3) foundation language and vision models, as well as (4) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](https://4m4n5.github.io/assets/CV_v8.0.pdf). 
+My research areas include (1) information-efficient multi-media retrieval and ranking, (2) vision-language alignment and representation learning, (3) conditional and controllable image and text generation, (4) foundation language and vision models, as well as (5) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](https://4m4n5.github.io/assets/CV_v9.0.pdf). 
 
 
 # 📝 Selected Publications 
+
+> **Diffusion Models for Histopathological Image Generation** <br>
+> **Aman Shrivastava** and P. Thomas Fletcher <br>
+> In Generative Machine Learning Models in Medical Image Computing, Springer Nature. **Book Chapter 2024** <br>
+> [chapter](https://link.springer.com/chapter/10.1007/978-3-031-80965-1_2)
+
+
+> **Learning Group Actions on Latent Representations** <br>
+> Yinzhu Jin, **Aman Shrivastava**, and P. Thomas Fletcher <br>
+> In Advances in Neural Information Processing Systems. **NeurIPS 2024** <br>
+> [paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/e63309e532688c722177f81e99f94f32-Abstract-Conference.html)
+
 
 > **NASDM, Nuclei-Aware Semantic Histopathology Image Generation Using Diffusion Models** <br>
 > **Aman Shrivastava** and P. Thomas Fletcher <br>
@@ -79,7 +91,7 @@ My research areas include (1) vision-language alignment and representation learn
 
 
 > **Connect 4 AI** <br>
-> Developed a lightweight connect-4 game with a self-written pure-javascript bot using Minimax algorithm and Monte Carlo simulations. <br>
+> Developed a lightweight connect-4 game with a self-written pure-javascript bot using Minimax algorithm and Monte Carlo simulations. Featured on Hacker News and released as a Google Play Store app rated 4.7. <br>
 > [website](https://sahlamba.github.io/connect4/) | [code](https://github.com/sahlamba/connect4)
 
 > **Humorous Image Captioning System** <br>
@@ -92,11 +104,17 @@ My research areas include (1) vision-language alignment and representation learn
 
 
 # 📖 Education
-- **2020 - present:** Computer Science PhD &#124; University of Virginia 
+- **2020 - 2024:** Computer Science PhD &#124; University of Virginia 
 - **2018 - 2019:** Masters in Data Science &#124; University of Virginia
-- **2013 - 2017:** Bachelors in Technology &#124; Indian Institute of Technology, Roorkee 
+- **2013 - 2017:** Bachelors in Technology, Mechanical Engineering &#124; Indian Institute of Technology, Roorkee 
 
 # 💻 Experience
+- **Machine Learning Scientist** at Reddit | February 2026 - present <br>
+  Working on pushing ads conversion models to the state-of-the-art.
+
+- **Research Scientist** at Meta | January 2025 - January 2026 <br>
+  Worked on bootstrapping generative models for business AI agents and optimized ad relevance ranking to improve CTR by 25%.
+
 - **Research Scientist Intern** at Adobe Research | June - November, 2023 <br>
   Worked on designing an AI assistant for visual reasoning via bootstrapping pretrained foundation models.
 

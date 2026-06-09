@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Aman Shrivastava"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "CS PhD Student"
+  bio              : "Machine Learning Scientist"
   location         : "Charlottesville, VA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8JKUMc8AAAAJ"
-  email            : "as3ek@virginia.edu"
+  email            : "aman.srivastava999@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
