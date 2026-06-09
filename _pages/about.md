@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **Machine Learning Scientist** at **Reddit** where I work on pushing ads conversion models to the state-of-the-art. Previously, I was a **Research Scientist** at **Meta** where I worked on bootstrapping generative models for business AI agents and on optimizing ad relevance ranking. I completed my **Computer Science PhD** at the **University of Virginia** advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and previously by [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Research** where I worked with [Kushal Kafle](https://kushalkafle.com/) on bootstrapping large language and vision models to design VLMs via instruction-tuning. I also interned with **Salesforce Research** where I worked with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/) on vision-language alignment & retrieval and conditional & controllable image generation using diffusion models. Earlier, I worked as a Research Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown) where I developed AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** in Mechanical Engineering from the **Indian Institute of Technology, Roorkee**. 
+I am a **Machine Learning Scientist** at **Reddit**, where I work on advancing ads conversion models to the state of the art. Previously, I was a **Research Scientist** at **Meta**, where I bootstrapped generative models for business AI agents and optimized ad relevance ranking. I completed my **Computer Science PhD** at the **University of Virginia**, advised by [Prof. Tom Fletcher](https://engineering.virginia.edu/faculty/tom-fletcher) and previously by [Prof. Vicente Ordóñez Román](http://vicenteordonez.com/). During my PhD, I interned at **Adobe Research** with [Kushal Kafle](https://kushalkafle.com/), bootstrapping large language and vision models to design VLMs via instruction-tuning, and at **Salesforce Research** with [Nikhil Naik](https://web.mit.edu/naik/www/) and [Prof. Stefano Ermon](https://cs.stanford.edu/~ermon/), on vision-language alignment & retrieval and conditional & controllable image generation using diffusion models. Earlier, I was a Research Scientist with [Prof. Donald E. Brown](https://engineering.virginia.edu/faculty/donald-e-brown), developing AI methods for disease understanding and diagnosis. I also hold a **Masters in Data Science** from the **University of Virginia** and a **Bachelors in Technology** in Mechanical Engineering from the **Indian Institute of Technology, Roorkee**. 
 
-My research areas include (1) information-efficient multi-media retrieval and ranking, (2) vision-language alignment and representation learning, (3) conditional and controllable image and text generation, (4) foundation language and vision models, as well as (5) their applications for disease understanding and addressing challenges in computational medical imaging. Find my [CV here](https://4m4n5.github.io/assets/CV_v9.0.pdf). 
+My research spans (1) information-efficient multi-media retrieval and ranking, (2) vision-language alignment and representation learning, (3) conditional and controllable image and text generation, (4) foundation language and vision models, and (5) their applications to disease understanding and computational medical imaging. Outside of my day job, I run [**aaam.dev**](https://aaam.dev/), a small studio building quiet, private, ad-free apps. Find my [CV here](https://4m4n5.github.io/assets/CV_v9.0.pdf). 
 
 
 # 📝 Selected Publications 
@@ -78,6 +78,11 @@ My research areas include (1) information-efficient multi-media retrieval and ra
 
 
 # 📂 Side Projects
+> **aaam.dev** <br>
+> Founded a small independent app studio building quiet, private apps with no ads, no in-app purchases, and no tracking. Two apps are live and free on the App Store: **hum**, a calm, invite-only home for couples, and **tir**, a live semantic word race played against the room. <br>
+> [studio](https://aaam.dev/) | [hum — for two](https://apps.apple.com/us/app/hum-for-two/id6768805132) | [tir — word race](https://apps.apple.com/us/app/tir-word-race/id6768131124)
+
+
 > **Krity** <br>
 > Co-founded an open audiobook platform that allows listeners to find audiobooks in diverse voices, and narrators to give voices to their favorite books. Have produced and published over 40 audiobooks. <br>
 > [website](https://krity.app/)
@@ -103,7 +108,7 @@ My research areas include (1) information-efficient multi-media retrieval and ra
 
 # 💻 Experience
 - **Machine Learning Scientist** at Reddit | February 2026 - present <br>
-  Working on pushing ads conversion models to the state-of-the-art.
+  Advancing ads conversion models to the state of the art.
 
 - **Research Scientist** at Meta | January 2025 - January 2026 <br>
   Worked on bootstrapping generative models for business AI agents and optimized ad relevance ranking to improve CTR by 25%.
@@ -120,6 +125,11 @@ My research areas include (1) information-efficient multi-media retrieval and ra
 - **Analyst** at Citibank | June 2018 - June 2019 <br>
   Built a streamlined visualization platform with data-driven insights for the Chief Country Officer. However, would not recommend.
 
+# 🛠 Skills & Interests
+- **Interests:** Generative modeling, multimodal learning, computer vision, ranking & recommendation, and healthcare AI
+- **Languages:** Python, C++, JavaScript, R, Ruby, Julia, LaTeX
+- **Frameworks & Tools:** PyTorch, TensorFlow, Keras, Git, AWS, GCP, MongoDB, Redis
+
 # 👨‍🏫 Teaching / Talks
 - 2023
   - **Co-instructor** for Geometry of Data &#124; University of Virginia &#124; [lecture videos](https://www.youtube.com/watch?v=tzu-Gl3N614&list=PL9f1MuX_YDqdNg2gsAMGWDTEr5IuEAJb-)
@@ -135,3 +145,8 @@ My research areas include (1) information-efficient multi-media retrieval and ra
   - **Python Instructor** for Health Sciences Library &#124; University of Virginia
   - **Assistant Capstone Advisor** for School of Data Science &#124; University of Virginia
   - **Invited Speaker** for Applied Machine Learning Conference &#124; Tom Tom Festival 
+
+# ♟️ Beyond Research
+- **Chess:** Represented the University of Virginia at the Virginia State Collegiate Chess Championship, 2023.
+- **Writing:** Editor-in-Chief of *Geek Gazette*, the campus technical magazine at IIT Roorkee.
+- **Communities:** Member of the Information Management Group (campus coding society) and the quizzing society at IIT Roorkee.
